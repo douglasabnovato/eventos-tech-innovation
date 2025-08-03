@@ -1,0 +1,5 @@
+# Eventos Tech Innovation
+
+O objetivo de projeto é listar em cards todos os eventos de tecnologia que estive presente.
+E para cada card, abrir uma lp com todas as informações do evento e da minha experiência nesse evento.
+Como resultado, terei um painel de demonstração e uma lp para cada evento.
